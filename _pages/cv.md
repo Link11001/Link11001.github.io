@@ -14,6 +14,10 @@ Education
 * M.S., Ocean University of China, 2024 - 2027 (Expected)
 * B.S., Qingdao University of Science and Technology, 2020 - 2024
 
+Leadership & Service
+======
+* **中国计算机学会（CCF）中国海洋大学学生分会** <br>
+  *正式主席* | *2026年05月 - 2027年05月*
 
 Publications
 ======
